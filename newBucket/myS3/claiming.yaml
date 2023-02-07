@@ -2,7 +2,7 @@ apiVersion: allbuckets.io/v1alpha1
 kind: Bucket
 metadata:
   namespace: default
-  name: mons3-bucket
+  name: mons3-bucket1
 spec:
   compositionRef:
     name: bucket-composition
